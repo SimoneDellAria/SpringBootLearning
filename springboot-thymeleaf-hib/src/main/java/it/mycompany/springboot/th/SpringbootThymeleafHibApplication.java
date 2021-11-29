@@ -1,4 +1,4 @@
-package it.mycompany.springboot.springbootthymeleafhib;
+package it.mycompany.springboot.th;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
