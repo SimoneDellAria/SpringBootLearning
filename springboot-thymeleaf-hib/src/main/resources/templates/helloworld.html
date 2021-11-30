@@ -3,9 +3,10 @@
 
 <head>
 	<title>Thymeleaf Demo</title>
+	<link rel="stylesheet" th:href="@{/css/welcome.css}" />
 </head>
 <body>
-	<p th:text="${welcomeMessage}"/>
+	<p th:text="${welcomeMessage}" class="welcome"/>
 </body>
 
 </html>
